@@ -1,6 +1,6 @@
 InstaRetrofitProject - Skeleton Android app integrating Retrofit + Gson (Instagram sandbox simulation)
 
-Estructura mínima generada automáticamente por ChatGPT.
+
 
 Instrucciones rápidas:
 - Importar el proyecto en Android Studio (usar Gradle wrapper del entorno).
@@ -16,4 +16,4 @@ Archivos clave:
 - app/src/main/java/com/example/instaclone/ui/PhotoAdapter.kt
 - app/src/main/res/layout/*.xml
 
-Nota: Este proyecto es una plantilla educativa. No incluye credenciales ni SDKs adicionales.
+
